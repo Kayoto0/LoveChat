@@ -54,9 +54,12 @@ body {
 }
 
 .message-box2 {
-    height: 1069px;
+    height: 1150px;
 }
 .message-box3 {
+    height: 200px;
+}
+.message-box4 {
     height: 200px;
 }
 .message-container {
@@ -183,7 +186,7 @@ h2
     height: 400px;
     background: #ff6c98;
     position: fixed; /* Change to fixed position */
-    right: 20px;
+    right: -10px;
     top: 50%; /* Vertically align to the center */
     transform: translateY(-50%); /* Correct for vertical alignment */
     display: flex;
