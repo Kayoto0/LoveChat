@@ -38,6 +38,7 @@ body {
     margin: 20px auto 30px; /* Added margin-bottom for spacing */
     background-color: #ff8383;
     border-radius: 30px;
+    margin-top: 60px;
 }
 
 .message-boxM {
@@ -46,6 +47,7 @@ body {
     margin: 20px auto 30px; /* Added margin-bottom for spacing */
     background-color: #76adff;
     border-radius: 30px;
+    margin-top: 60px;
 }
 
 
@@ -54,13 +56,15 @@ body {
 }
 
 .message-box2 {
-    height: 1150px;
+    height: 1180px;
 }
 .message-box3 {
-    height: 200px;
+    height: 1600px;
+    margin-top: 60px;
 }
 .message-box4 {
-    height: 200px;
+    height: 2200px;
+    margin-top: 60px;
 }
 .message-container {
     padding: 10px;
